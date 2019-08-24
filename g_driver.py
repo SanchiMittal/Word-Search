@@ -1,4 +1,3 @@
-from tkinter.filedialog import askopenfile
 import game_func as gf
 import sys
 
