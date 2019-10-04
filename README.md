@@ -1,2 +1,3 @@
-# Word-Search
-A Word-Search game. Simplified Boggle.
+# A Word To find! 
+Hold on! A word is here waiting to be found. 
+Try Your Hands on this Awesome Boggle!
